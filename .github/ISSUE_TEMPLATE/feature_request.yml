@@ -1,0 +1,25 @@
+name: Feature request
+description: Suggest an improvement to the terrain authoring workflow.
+title: "[Feature]: "
+labels: [enhancement]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem to solve
+      description: What terrain-authoring task is currently difficult or impossible?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed workflow
+      description: Describe the smallest useful interaction and its expected result.
+    validations:
+      required: true
+  - type: textarea
+    id: constraints
+    attributes:
+      label: Roblox or performance constraints
+      description: Include scale, material, persistence, or Studio-import considerations.
+

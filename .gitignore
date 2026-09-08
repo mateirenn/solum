@@ -1,0 +1,14 @@
+node_modules/
+dist/
+src-tauri/target/
+src-tauri/gen/
+.pnpm-store/
+graphify-out/
+*.log
+.DS_Store
+graphify-out/.graphify_*
+*.tsbuildinfo
+.env
+.env.*
+!.env.example
+*.rterrain

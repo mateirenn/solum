@@ -1,0 +1,36 @@
+name: Bug report
+description: Report a reproducible problem in Solum.
+title: "[Bug]: "
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please avoid attaching private `.rterrain` projects or secrets. Redact sensitive data first.
+  - type: input
+    id: version
+    attributes:
+      label: Solum version
+      placeholder: v0.8 beta
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Reproduction steps
+      description: Tell us exactly what you did and what happened.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Windows version, display scaling, project size, and relevant import/export details.
+    validations:
+      required: true
