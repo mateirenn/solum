@@ -3,6 +3,7 @@
 ### A focused terrain authoring studio for Roblox developers
 
 [![CI](https://github.com/mateirenn/solum/actions/workflows/ci.yml/badge.svg)](https://github.com/mateirenn/solum/actions/workflows/ci.yml)
+[![CodeQL](https://github.com/mateirenn/solum/actions/workflows/codeql.yml/badge.svg)](https://github.com/mateirenn/solum/actions/workflows/codeql.yml)
 [![Latest beta](https://img.shields.io/github/v/release/mateirenn/solum?include_prereleases&label=latest%20beta)](https://github.com/mateirenn/solum/releases)
 [![Discussions](https://img.shields.io/github/discussions/mateirenn/solum?label=discussions)](https://github.com/mateirenn/solum/discussions)
 [![License: MIT](https://img.shields.io/badge/license-MIT-limegreen.svg)](LICENSE)
