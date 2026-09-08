@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Questions and ideas
+    url: https://github.com/mateirenn/solum/discussions
+    about: Ask questions, share workflows, and discuss ideas with the community.
+  - name: Security vulnerability
+    url: https://github.com/mateirenn/solum/security/policy
+    about: Read the private security-reporting process before disclosing a vulnerability.

@@ -4,6 +4,7 @@
 
 [![CI](https://github.com/mateirenn/solum/actions/workflows/ci.yml/badge.svg)](https://github.com/mateirenn/solum/actions/workflows/ci.yml)
 [![Latest beta](https://img.shields.io/github/v/release/mateirenn/solum?include_prereleases&label=latest%20beta)](https://github.com/mateirenn/solum/releases)
+[![Discussions](https://img.shields.io/github/discussions/mateirenn/solum?label=discussions)](https://github.com/mateirenn/solum/discussions)
 [![License: MIT](https://img.shields.io/badge/license-MIT-limegreen.svg)](LICENSE)
 
 Solum is a local-first, Windows-first terrain desk for building Roblox worlds. Work in Roblox studs, sculpt high-precision terrain, assign stable Roblox materials, inspect the result in 3D, and export a handoff package for Roblox Studio.
@@ -90,6 +91,10 @@ The current release is functional but deliberately limited in a few production a
 ## Contributing
 
 Read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request. Changes should keep the terrain domain as the source of truth, preserve explicit types, add focused tests for important behavior, and update the status documentation when a feature’s boundary changes.
+
+Questions and workflow ideas belong in [Discussions](https://github.com/mateirenn/solum/discussions); reproducible bugs and scoped proposals belong in [Issues](https://github.com/mateirenn/solum/issues). See [SUPPORT.md](.github/SUPPORT.md) for the community support path and [SECURITY.md](SECURITY.md) for private vulnerability reporting.
+
+If Solum is useful to your work, you can [support the project on GitHub Sponsors](https://github.com/sponsors/mateirenn). Sponsorship availability depends on the maintainer’s GitHub Sponsors enrollment.
 
 ## License
 
